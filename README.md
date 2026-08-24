@@ -2,7 +2,7 @@
 
 ## Projet Jeu de Go
 
-Ce projet est une implémentation du jeu de Go réalisée dans le cadre du cours BUT2-201 à l'Université Rives de Seine. 
+Ce projet est une implémentation du jeu de Go réalisée dans le cadre du cours BUT2-201 à l'Université Paris Rives de Seine. 
 
 ## Règles du Jeu
 Les règles du jeu de Go peuvent être consultées sur [le site officiel du jeu de Go](https://jeudego.org/_php/regleGo.php).
